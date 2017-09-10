@@ -2,6 +2,7 @@ backend:
   name: github
   repo: sully90/new-site # Path to your Github repository
   branch: master # Branch to update
+  site_domain: clown-joan-18577.netlify.com
 
 publish_mode: editorial_workflow
 
